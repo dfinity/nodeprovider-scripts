@@ -4,8 +4,7 @@ This repository contains useful scripts for Internet Computer Node Providers.
 
 There is presently only one script here: `node_monitor.sh`
 
-Pull Requests are welcomed!
-
+External contributions are accepted and welcomed. Pull Requests are encouraged!
 
 # Usage:
 
